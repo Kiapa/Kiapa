@@ -1,6 +1,6 @@
 👋 Hi, I’m @Romeo Kiapa Munyes
 
-Technologies I work with: Python, Java, Typscript, FastAPI ,Django, Docker HTML5 CSS3 JavaScript, AWS ,PostgreSQL,Microservices, REST, Apache Kafka, RabbitMQ, and Redis
+Technologies I work with: Python, Java, Typscript,Flutter, FastAPI ,Django, Docker HTML5 CSS3 JavaScript, AWS,GCP ,PostgreSQL,Microservices, REST, Apache Kafka, RabbitMQ, and Redis
 
 👀 I’m a passionate Androis and Backend Developer
 
